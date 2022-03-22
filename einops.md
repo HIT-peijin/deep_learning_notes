@@ -1,5 +1,12 @@
 einops 张量操作神器（支持PyTorch)
 https://github.com/arogozhnikov/einops
+
+
+https://www.icode9.com/content-4-946796.html
+
+
+
+
 ## 简介
 
 - einops是一个用于操作张量的库，它的出现可以替代我们平时使用的reshape、view、transpose和permute等操作，相信接触过深度学习的同学一定对这些函数比较的熟悉。
